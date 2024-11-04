@@ -1,6 +1,7 @@
-/*
-- Personal Info Display Program
+- "Personal Info Display Program"
 - Print your name, date of birth, email, and mobile number.
+- The name, date of birth, and mobile number can be adjusted/modified to your liking.
+
 - Expected Output:
 
 ----------------------------
@@ -9,7 +10,5 @@ BDate   : Jan 1st, 2000
 EMail   : johndoe@gmail.com
 MNumber : 111-1111111
 ----------------------------
-
-- The name, date of birth, and mobile number can be adjusted/modified to your liking. */
     
-// Solution/Answer: Solution_1.c
+Solution/Answer ---> Solution_1.c
