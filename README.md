@@ -28,7 +28,21 @@ Programming Language Exercises, Answers and Solutions for Everybody - "C"
 
 ## Structure
 
-~~Coming Soon~~
+```bash
+PLEASE-C/
+├── Basic Concepts/
+├── C Search And Sorting/
+├── Challenges/
+├── Control Flow/
+├── Data Structures/
+├── File Handling And IO/
+├── Functions And Callbacks/
+├── Numbers And Math/
+├── Recursion/
+├── String And Text Processing/
+├── LICENSE
+└── README.md
+```
 
 ## Contributing
 
